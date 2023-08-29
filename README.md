@@ -1,5 +1,5 @@
 # PublicSafetyApp
-Created by using Flutter. 
+Created by using Flutter and Firebase. 
 
 For executing this application, you must have flutter SDK installed, VS Code or Android Studio with Flutter and Dart plugins installed. Download the zip, unzip it and open it on any IDE(VS Code or Android Studio).
 
